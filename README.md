@@ -1,1 +1,1 @@
-# OOP2Practice
+# OOP2Practice - Valentin Iliev

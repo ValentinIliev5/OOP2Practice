@@ -20,13 +20,13 @@ namespace University
            
             for (int i = 0; i < 3; i++)
             {
-                pesho.AddMark(se.CommonSubjects[i], rnd.Next(2, 6));
-                gosho.AddMark(se.CommonSubjects[i], rnd.Next(2, 6));
+                pesho.AddMark(se.CommonSubjects[i], rnd.Next(2, 7));
+                gosho.AddMark(se.CommonSubjects[i], rnd.Next(2, 7));
             }
             for (int i = 0; i < 2; i++)
             {
-                pesho.AddMark(se.ElectiveSubjects[i], rnd.Next(2, 6));
-                gosho.AddMark(se.ElectiveSubjects[i], rnd.Next(2, 6));
+                pesho.AddMark(se.ElectiveSubjects[i], rnd.Next(2, 7));
+                gosho.AddMark(se.ElectiveSubjects[i], rnd.Next(2, 7));
             }
 
 

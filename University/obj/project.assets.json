@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\justw\\Desktop\\University\\University\\University.csproj",
+      "projectUniqueName": "C:\\Users\\justw\\Desktop\\OOP2Practice\\University\\University.csproj",
       "projectName": "University",
-      "projectPath": "C:\\Users\\justw\\Desktop\\University\\University\\University.csproj",
+      "projectPath": "C:\\Users\\justw\\Desktop\\OOP2Practice\\University\\University.csproj",
       "packagesPath": "C:\\Users\\justw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\justw\\Desktop\\University\\University\\obj\\",
+      "outputPath": "C:\\Users\\justw\\Desktop\\OOP2Practice\\University\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
